@@ -1,2 +1,2 @@
 - aubberz
-  - https://github.com/aubberz
+  - [https://github.com/aubberz](https://github.com/aubberz)
